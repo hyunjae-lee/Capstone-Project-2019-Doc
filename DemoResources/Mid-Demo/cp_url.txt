@@ -1,0 +1,6 @@
+@ 서버에서 db가져오기
+scp moyak@moyak.kr:~/capstone/Capstone-Project-2019/django_capstone/db.sqlite3 .
+
+
+@ 서버에서 uwsgi로 서버 키는 명령어
+sudo uwsgi --emperor /etc/uwsgi/vassals --uid moyak --gid moyak

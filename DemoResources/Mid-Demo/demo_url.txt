@@ -1,0 +1,6 @@
+@ DB Browser for SQLite
+https://sqlitebrowser.org/dl/
+
+@ Twitch video links 
+https://www.twitch.tv/videos/408592729
+https://www.twitch.tv/videos/409032291
